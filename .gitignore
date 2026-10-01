@@ -1,0 +1,7 @@
+# Ignora todo...
+/*
+
+# ...menos los scripts y el README de la raíz
+!/.gitignore
+!/README.md
+!/*.py
